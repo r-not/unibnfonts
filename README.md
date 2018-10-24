@@ -2,7 +2,6 @@
 
 Collection of Unicode Bangla fonts.
 
-**Font List**
 
 ### Ekushey Bangla Fonts
 - 16 December
