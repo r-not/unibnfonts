@@ -9,7 +9,7 @@ Open your terminal copy this full line and paste into terminal then press enter.
 ```
 wget --no-check-certificate https://github.com/r-not/unibnfonts/archive/master.zip -O ubf.zip;sudo unzip -o ubf.zip -d /usr/share/fonts
 ```
-**Installing fonts in your locla user folder:***
+**Installing fonts in your locla user folder:**
 ```
 wget --no-check-certificate https://github.com/r-not/unibnfonts/archive/master.zip -O ubf.zip;sudo unzip -o ubf.zip -d ~/.local/share/fonts
 ```
