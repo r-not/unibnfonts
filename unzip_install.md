@@ -59,4 +59,4 @@ Type the following pkg_add command to install unzip package:
 # pkg_add -v unzip
 ```
 
-
+_Source: [nixCraft](https://www.cyberciti.biz/faq/how-to-unzip-a-zip-file-using-the-linux-and-unix-bash-shell-terminal/)_
