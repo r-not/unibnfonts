@@ -2,10 +2,16 @@
 
 Collection of Unicode Bangla fonts.
 
-### Installation Instruction for Linux
+## Installation Instruction for Linux
 Open your terminal copy this full line and paste into terminal then press enter. It will download and install these Unicode Bangla fonts into your system automatically. 
+
+**Installing fonts in your root folder:**
 ```
 wget --no-check-certificate https://github.com/r-not/unibnfonts/archive/master.zip -O ubf.zip;sudo unzip -o ubf.zip -d /usr/share/fonts
+```
+**Installing fonts in your locla user folder:***
+```
+wget --no-check-certificate https://github.com/r-not/unibnfonts/archive/master.zip -O ubf.zip;sudo unzip -o ubf.zip -d ~/.local/share/fonts
 ```
 _Note: This installation process depends on **unzip** package. You may need to [install **unzip** package manually](https://github.com/r-not/unibnfonts/blob/master/unzip_install.md). Also it will ask for your root password during installation process to copy fonts in your root folder._ 
 
