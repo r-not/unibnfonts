@@ -2,8 +2,16 @@
 
 Collection of Unicode Bangla fonts.
 
+### Installation Instruction for Linux
+Open your terminal copy this full line and paste into terminal then press enter. It will download and install these Unicode Bangla fonts into your system automatically. 
+```
+wget --no-check-certificate https://github.com/r-not/unibnfonts/archive/master.zip -O ubf.zip;sudo unzip -o ubf.zip -d /usr/share/fonts
+```
+_Note: This installation process depends on **unzip** package. You may need to install **unzip** package manually. Also it will ask for your root password during installation process to copy fonts in your root folder._ 
 
-### Ekushey Bangla Fonts
+
+### Font list
+**Ekushey Bangla Fonts**
 - 16 December
 - Amar Bangla
 - Amar Bangla Bold
@@ -46,13 +54,13 @@ Collection of Unicode Bangla fonts.
 - Sumon Normal
 
 
-### OmicronLab Fonts
+**OmicronLab Fonts**
 - Kalpurush
 - Siyamrupali
 - Siyamrupali 1 01
 
 
-### Google Bangla Fonts
+**Google Bangla Fonts**
 - Atma Bold
 - Atma Light
 - Atma Medium
@@ -69,7 +77,7 @@ Collection of Unicode Bangla fonts.
 - Mina Regular
 
 
-### Charu Chandan Fonts
+**Charu Chandan Fonts**
 - Charu Chandan 3D Unicode Italic
 - Charu Chandan 3D Unicode Regular
 - Charu Chandan BloodDrip Unicode Bold Italic
@@ -96,7 +104,7 @@ Collection of Unicode Bangla fonts.
 - Charukola Unicode Ultra Light
 
 
-### All Unicode Bangla Fonts
+**All Unicode Bangla Fonts**
 - AdorshoLipi
 - Akaash
 - Akaash Normal
