@@ -81,6 +81,27 @@ _Note: This installation process depends on **unzip** package. You may need to [
 - Hind Siliguri SemiBold
 - Mina Bold
 - Mina Regular
+- Noto Sans Bengali Black
+- Noto Sans Bengali UI Black
+- Noto Sans Bengali Bold
+- Noto Sans Bengali UI Bold
+- Noto Sans Bengali Extra Bold
+- Noto Sans Bengali UI Extra Bold
+- Noto Sans Bengali Extra Light
+- Noto Sans Bengali UI Extra Light
+- Noto Sans Bengali Light
+- Noto Sans Bengali UI Light
+- Noto Sans Bengali Medium
+- Noto Sans Bengali UI Medium
+- Noto Sans Bengali Regular
+- Noto Sans Bengali UI Regular
+- Noto Sans Bengali Semi Bold
+- Noto Sans Bengali UI Semi Bold
+- Noto Sans Bengali Thin
+- Noto Sans Bengali UI Thin
+- Noto Serif Bengali Bold
+- Noto Serif Bengali Regular
+
 
 
 **Charu Chandan Fonts**
